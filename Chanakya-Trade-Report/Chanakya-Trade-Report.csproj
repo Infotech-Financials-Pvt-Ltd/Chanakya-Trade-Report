@@ -154,7 +154,7 @@
     <Content Include="docs\login-window.jpg" />
     <Content Include="docs\settings-details.jpg" />
     <Content Include="docs\settings-window-empty.jpg" />
-    <Content Include="docs\trade-window-with-data.jpg" />
+    <Content Include="docs\trade-report-window.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
