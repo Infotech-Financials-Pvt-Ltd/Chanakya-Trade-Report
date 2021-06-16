@@ -2,6 +2,9 @@
 
 This is an open source project developed using APIs to download and process trade data from stock exchange.
 
+![trade-window-with-data](https://user-images.githubusercontent.com/85736384/122161108-bb6b9580-ce8e-11eb-9d07-d408586c73cc.jpg)
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -35,6 +38,9 @@ Run the exe created in Release folder in setup in bin directory
 Enter requuired login and configuration details for trade data.
 Trade data will be displayed in the table in window with calculations of total values
 
+## Documentation
+
+
 
 ## Deployment
 
@@ -53,7 +59,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/) for details on our code 
 
 ## Authors
 
-* **Sameer Ghanekar** - *Initial work* - [account](https://github.com/accouunt)
+* **Sameer Ghanekar** - *Initial work* - [account](https://github.com/sghanekar-infofin)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
