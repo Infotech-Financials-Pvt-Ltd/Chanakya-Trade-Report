@@ -39,8 +39,7 @@ Enter requuired login and configuration details for trade data.
 Trade data will be displayed in the table in window with calculations of total values
 
 ## Documentation
-
-
+Please Read [Documentation.md](https://github.com/Chanakya-Infotech/Chanakya-Trade-Report/blob/master/Chanakya-Trade-Report/docs/Documentation.md)
 
 ## Deployment
 
@@ -50,11 +49,6 @@ Copy the Release folder in bin directory in setup to desired windows machine who
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/) for details on our code of conduct, and the process for submitting pull requests to us.
-
-
-## Versioning
-
-??? 
 
 
 ## Authors
