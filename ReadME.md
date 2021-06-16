@@ -45,12 +45,6 @@ Please Read [Documentation.md](https://github.com/Chanakya-Infotech/Chanakya-Tra
 
 Copy the Release folder in bin directory in setup to desired windows machine whose IP is configured with exchange.
 
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/) for details on our code of conduct, and the process for submitting pull requests to us.
-
-
 ## Authors
 
 * **Sameer Ghanekar** - *Initial work* - [account](https://github.com/sghanekar-infofin)
