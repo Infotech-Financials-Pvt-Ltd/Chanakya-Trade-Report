@@ -149,5 +149,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="docs\login-details-entered.jpg" />
+    <Content Include="docs\login-window.jpg" />
+    <Content Include="docs\settings-details.jpg" />
+    <Content Include="docs\settings-window-empty.jpg" />
+    <Content Include="docs\trade-window-with-data.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
