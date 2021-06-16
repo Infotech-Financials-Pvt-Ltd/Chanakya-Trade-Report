@@ -1,0 +1,102 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Chanakya_Trade_Report.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="member_code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12345</Value>
+    </Setting>
+    <Setting Name="key_fo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="secret_fo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="access_token_fo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="login_url_fo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.devconnect2nse.com/token</Value>
+    </Setting>
+    <Setting Name="trade_url_fo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.devconnect2nse.com/inquiry-fo/trades-inquiry</Value>
+    </Setting>
+    <Setting Name="csv_folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="trade_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="WindowState" Type="System.Windows.Forms.FormWindowState" Scope="User">
+      <Value Profile="(Default)">Normal</Value>
+    </Setting>
+    <Setting Name="WindowSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1280, 720</Value>
+    </Setting>
+    <Setting Name="WindowLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">30, 60</Value>
+    </Setting>
+    <Setting Name="actions_url_fo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.devconnect2nse.com/inquiry-fo/actions-inquiry</Value>
+    </Setting>
+    <Setting Name="inquiryType_fo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="downloadType_fo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="record_limit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="login_url_cm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.devconnect2nse.com/token</Value>
+    </Setting>
+    <Setting Name="trade_url_cm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.devconnect2nse.com/notis-cm/trades-inquiry</Value>
+    </Setting>
+    <Setting Name="actions_url_cm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.devconnect2nse.com/notis-cm/actions-inquiry</Value>
+    </Setting>
+    <Setting Name="login_url_cd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.devconnect2nse.com/token</Value>
+    </Setting>
+    <Setting Name="trade_url_cd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.devconnect2nse.com/notis-cm/trades-inquiry</Value>
+    </Setting>
+    <Setting Name="actions_url_cd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.devconnect2nse.com/notis-cd/actions-inquiry</Value>
+    </Setting>
+    <Setting Name="key_cm" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="secret_cm" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="key_cd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="secret_cd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="access_token_cm" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="access_token_cd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="inquiryType_cm" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="inquiryType_cd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="downloadType_cm" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="downloadType_cd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DEBUG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
