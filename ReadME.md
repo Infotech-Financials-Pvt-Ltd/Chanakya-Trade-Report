@@ -30,9 +30,16 @@ Install Visual Studio IDE (this will install .net framework)
 For ruunning app only:
 Install .Net Framework Runtime to run this app exe only.
 
+Read Deployment.
+
+## Deployment
+
+Copy the Release folder in bin directory in setup to desired windows machine whose IP is configured with exchange.
+Or download setup installer from [Releases](https://github.com/Chanakya-Infotech/Chanakya-Trade-Report/releases). This will install the application in your machine.
 
 ## Running the tests
 
+Open the project in Visual Studio.
 Build the program in Visual Studio.
 Run the exe created in Release folder in setup in bin directory
 Enter requuired login and configuration details for trade data.
@@ -41,16 +48,11 @@ Trade data will be displayed in the table in window with calculations of total v
 ## Documentation
 Please Read [Documentation.md](https://github.com/Chanakya-Infotech/Chanakya-Trade-Report/blob/master/Chanakya-Trade-Report/docs/Documentation.md)
 
-## Deployment
-
-Copy the Release folder in bin directory in setup to desired windows machine whose IP is configured with exchange.
-
 ## Authors
 
 * **Sameer Ghanekar** - *Initial work* - [account](https://github.com/sghanekar-infofin)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 
 ## License
 
