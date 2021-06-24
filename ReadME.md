@@ -1,6 +1,6 @@
 # Chanakya Trade Report
 
-This is an open source project developed using APIs to download and process trade data from stock exchange.
+This is an opensource project developed using APIs to download and process trade data from stock exchange.
 
 ![trade-window-with-data](/Chanakya-Trade-Report/docs/trade-report-window.jpg)
 
@@ -12,11 +12,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-.Net Framework Runtime 4.7.2 or higher.
+.NET Framework Runtime 4.7.2 or higher.
 
 ```
-.NET Framework 4.7.2
-.NET Framework 4.8
+Windows 7, 8, 8.1 and 10
+
+.NET Framework 4.7.2 or .NET Framework 4.8 (latest)
 
 Visal Studio 2019 IDE (any edition)
 
@@ -25,29 +26,31 @@ Visal Studio 2019 IDE (any edition)
 ### Installing
 
 For development:
-Install Visual Studio IDE (this will install .net framework)
+Install Visual Studio IDE (this will install .NET framework)
 
-For ruunning app only:
-Install .Net Framework Runtime to run this app exe only.
-
-Read Deployment.
+For running app only:
+Install .NET Framework Runtime to run this app exe only.
 
 ## Deployment
 
-Copy the Release folder in bin directory in setup to desired windows machine whose IP is configured with exchange.
-Or download setup installer from [Releases](https://github.com/Chanakya-Infotech/Chanakya-Trade-Report/releases). This will install the application in your machine.
+1. Run the exe created in Release folder in bin directory in setup if same machine IP already configured with exchange.
+ 
+2. Copy the Release folder in bin directory in setup to desired windows machine whose IP is configured with exchange.
+
+3. Download setup installer from [Releases](https://github.com/Chanakya-Infotech/Chanakya-Trade-Report/releases) on the machine whose IP is configured with exchange.
+This will install the application in your machine and you can start app using option in start menu or Desktop shortcut.
 
 ## Running the tests
 
-Open the project in Visual Studio.
-Build the program in Visual Studio.
-Run the exe created in Release folder in setup in bin directory
-Enter requuired login and configuration details for trade data.
-Trade data will be displayed in the table in window with calculations of total values
+- Open the project in Visual Studio.
+- Build the program in Visual Studio.
+- Run the exe created in Release folder in setup in bin directory
+- Enter required login and configuration details for trade data.
+- Trade data and total calculations will be displayed in the table in window.
 
 ## Documentation
 
-## Table of contents
+### Table of contents:
 - [Login](#login)
 - [Settings](#settings)
 - [Trade Report Window](#trade-report-window)
@@ -79,7 +82,7 @@ The Username and Password is currently configured in code.
 
 ## Enter proper details in settings window
 
-These details will be used to communicate with exchange and request and
+These details will be used to communicate with exchange to request and
 receive trade data.
 
 ![](/Chanakya-Trade-Report/docs/settings-details.jpg)
