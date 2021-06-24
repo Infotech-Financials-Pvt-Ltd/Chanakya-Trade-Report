@@ -1,4 +1,4 @@
-# GithubOrgTesting
+# Chanakya Trade Report
 
 This is an open source project developed using APIs to download and process trade data from stock exchange.
 
