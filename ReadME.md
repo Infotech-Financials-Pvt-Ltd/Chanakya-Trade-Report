@@ -246,6 +246,18 @@ detailed error will be added in the log file.
 
 -   Do not edit or remove any other files present in the setup folder.
 
+## Cloning Project from Github:
+1.	Go to Github repository link of project on web browser.
+2.	You will see a Code with Download sign button. Click that button.
+3.	A https link will be displayed this link will be used to clone the project.
+4.	Open Visual Studio go to Team Explorer tab there you will see clone option link.
+5.	Click that link it will ask for remote repository link.
+6.	Paste the copied link from web browser and press enter.
+7.	The project will be downloaded on local machine.
+8.	Another option to clone project is by using Github Desktop application. On clicking the Code with Download sign button on browser you will also see Open with Github Desktop option.
+9.	On clicking that option Github Desktop application will open and display a window where to download the project.
+
+#### NOTE: You can also download the source code as zip file and open the project in Visual Studio on your machine.
 
 ## Authors
 
