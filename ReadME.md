@@ -33,20 +33,22 @@ Install .NET Framework Runtime to run this app exe only.
 
 ## Deployment
 
-1. Run the exe created in Release folder in bin directory in setup if same machine IP already configured with exchange.
- 
-2. Copy the Release folder in bin directory in setup to desired windows machine whose IP is configured with exchange.
+- To run the application and download Trade data, the machine's Static IP must be configured with exchange.
 
-3. Download setup installer from [Releases](https://github.com/Chanakya-Infotech/Chanakya-Trade-Report/releases) on the machine whose IP is configured with exchange.
-This will install the application in your machine and you can start app using option in start menu or Desktop shortcut.
+1. Run the Chanakya-Trade-Report.exe file created in the Release folder under the bin directory inside the project folder.<br>
+Example : D:\Infotech\Chanakya-Trade-Report\Chanakya-Trade-Report\bin\x64\Release\Chanakya-Trade-Report.exe
+ 
+2. Copy the Release to the desired windows machine whose Static IP is configured with exchange and run the Chanakya-Trade-Report.exe file.
+
+3. Download setup installer from [Releases](https://github.com/Chanakya-Infotech/Chanakya-Trade-Report/releases) and install the application on the machine.<br>
+Start Chanakya Trade Report application using the option in Start Menu or by double clicking on Desktop shortcut.
 
 ## Running the tests
 
-- Open the project in Visual Studio.
-- Build the program in Visual Studio.
-- Run the exe created in Release folder in setup in bin directory
-- Enter required login and configuration details for trade data.
-- Trade data and total calculations will be displayed in the table in window.
+- Open the project in Visual Studio and Build the program.
+- Run the Chanakya-Trade-Report.exe file created in the Release folder under the bin directory inside the project folder.
+- Enter required login and configuration details in settings window for trade data.
+- Trade data and total calculations will be displayed in the window.
 
 ## Documentation
 
@@ -265,8 +267,6 @@ detailed error will be added in the log file.
 ## Authors
 
 * **Sameer Ghanekar** - *Initial work* - [account](https://github.com/sghanekar-infofin)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
