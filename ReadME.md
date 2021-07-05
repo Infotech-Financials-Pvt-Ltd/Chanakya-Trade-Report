@@ -1,5 +1,7 @@
 # Chanakya Trade Report
 
+[![beta](https://img.shields.io/badge/beta_version-1.0.0-yellow)](https://github.com/Chanakya-Infotech/Chanakya-Trade-Report/releases/tag/v1.0.0-beta)
+
 This is an opensource project developed using APIs to download and process trade data from stock exchange.
 
 ![trade-window-with-data](/Chanakya-Trade-Report/docs/trade-report-window.jpg)
