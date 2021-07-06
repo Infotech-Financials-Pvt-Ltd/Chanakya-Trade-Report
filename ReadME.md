@@ -266,11 +266,11 @@ detailed error will be added in the log file.
 
 #### NOTE: You can also download the source code as zip file and open the project in Visual Studio on your machine.
 
-## Authors
-
-* **Sameer Ghanekar** - *Initial work* - [account](https://github.com/sghanekar-infofin)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Feedback
+
+If you just have some feedback or suggestions you can [create an issue](https://github.com/Infotech-Financials-Pvt-Ltd/Chanakya-Trade-Report/issues), [start a discussion](https://github.com/Infotech-Financials-Pvt-Ltd/Chanakya-Trade-Report/discussions) or email us directly at [support-ctr@infofin.com](mailto:support-ctr@infofin.com)
 
