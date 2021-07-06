@@ -2,7 +2,7 @@
 
 [![beta](https://img.shields.io/badge/beta_version-1.0.0-yellow)](https://github.com/Chanakya-Infotech/Chanakya-Trade-Report/releases/tag/v1.0.0-beta)
 
-This is an opensource project developed using APIs to download and process trade data from stock exchange.
+Chanakya Trade Report is a free open source software which uses the Online Trade Inquiry Service of the National Stock Exchange (NOTIS) API to display daily trade reports of Equity, Derivatives and Currency markets.
 
 ![trade-window-with-data](/Chanakya-Trade-Report/docs/trade-report-window.jpg)
 
