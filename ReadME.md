@@ -2,7 +2,10 @@
 
 [![beta](https://img.shields.io/badge/beta_version-1.0.0-yellow)](https://github.com/Chanakya-Infotech/Chanakya-Trade-Report/releases/tag/v1.0.0-beta)
 
-Chanakya Trade Report is a free open source software which uses the Online Trade Inquiry Service of the National Stock Exchange (NOTIS) API to display daily trade reports of Equity, Derivatives and Currency markets.
+## About Chanakya Trade Report application:
+The National Stock Exchange has released the Online Trade Inquiry Service (NOTIS) APIs to allow their trading members to view their daily trade reports.
+
+Chanakya Trade Report is a free open source software created by Infotech Financials Pvt Ltd which uses the NOTIS API to display daily trade reports of Equity, Derivatives and Currency markets. It is a desktop application that requires members to input their username and tokens assigned by NSE in order to function.
 
 ![trade-window-with-data](/Chanakya-Trade-Report/docs/trade-report-window.jpg)
 
