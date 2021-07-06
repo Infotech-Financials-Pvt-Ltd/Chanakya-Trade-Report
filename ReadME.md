@@ -7,6 +7,13 @@ The National Stock Exchange has released the Online Trade Inquiry Service (NOTIS
 
 Chanakya Trade Report is a free open source software created by Infotech Financials Pvt Ltd which uses the NOTIS API to display daily trade reports of Equity, Derivatives and Currency markets. It is a desktop application that requires members to input their username and tokens assigned by NSE in order to function.
 
+### Application Features:
+- Members can inquire and download trades and actions.
+- Cash, Future & Options and Currency market options available.
+- Trade and actions file download which can be opened in Excel.
+- Live trading report.
+- Get total traded buy/sell values and total trades calculations.
+
 ![trade-window-with-data](/Chanakya-Trade-Report/docs/trade-report-window.jpg)
 
 
