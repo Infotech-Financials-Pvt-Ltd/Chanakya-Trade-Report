@@ -268,7 +268,7 @@ detailed error will be added in the log file.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Microsoft Public License (MS-PL) License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Feedback
 
